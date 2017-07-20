@@ -1,8 +1,8 @@
 {
   "name": "todo-app",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Jeremy Kithome <jeremy.kithome@andela.com>",
+  "description": "Vue.js Todo App",
+  "author": "Jason Springer",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -82,7 +82,7 @@
     "webpack-merge": "^2.6.1"
   },
   "engines": {
-    "node": ">= 4.0.0",
+    "node": ">= 6.11.1",
     "npm": ">= 3.0.0"
   }
 }

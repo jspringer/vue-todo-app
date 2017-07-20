@@ -35,10 +35,6 @@ export default {
         title: 'Todo C',
         project: 'Project C',
         done: false,
-      }, {
-        title: 'Todo D',
-        project: 'Project D',
-        done: false,
       }],
     };
   },
