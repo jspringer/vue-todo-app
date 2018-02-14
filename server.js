@@ -6,7 +6,7 @@ var app = express();
 
 app.use(serveStatic(path.join(__dirname, 'dist')));
 
-var port = process.env.PORT || 5000;
+var port = process.env.PORT || 8081;
 
 app.listen(port);
 console.log('server started ' + port);
